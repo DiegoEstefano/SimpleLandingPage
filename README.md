@@ -1,6 +1,9 @@
 # SimpleLandingPage
 Just a simple exemple of landing page with a capture formulary  made by me
 
+[Click here to access
+](https://diegoestefano.github.io/SimpleLandingPage/)
+
 Print Screen from this page.
 OBS: this page is responsive to all screen sizes
 
